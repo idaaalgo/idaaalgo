@@ -5,4 +5,4 @@
 
 [![Idalgo GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=idaaalgo&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-Tenho 18 anos, estudando ciências da computação!
+Tenho 18 anos, estudando ciências da computação!!
