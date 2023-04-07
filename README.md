@@ -3,7 +3,8 @@
 Tenho 18 anos, estudando Ciências da Computação!!
 Atualmente focado em Java.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=idaaalgo)](https://github.com/idaaalgo/github-readme-stats)   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/idaaalgo/github-readme-stats)
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=guilhermewilias&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermewilias&layout=compact&langs_count=7&theme=dark"/>
 
 <div>
  <a href="https://www.instagram.com/idaaalgo/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
