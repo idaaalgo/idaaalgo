@@ -1,7 +1,7 @@
 
 ### Olá, me chamo Eduardo Idalgo 👋
 Tenho 19 anos, estudando Ciências da Computação!!
-Atualmente focado em Java.
+Atualmente focado em Java e JS.
 
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=idaaalgo&show_icons=true&theme=dracula&count_private=true)](https://github.com/anuraghazra/github-readme-stats)"/>  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=idaaalgo&layout=compact&langs_count=7&theme=dracula"/>
 
