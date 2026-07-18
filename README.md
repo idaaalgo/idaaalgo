@@ -1,6 +1,8 @@
 
 ### Olá, me chamo Eduardo Idalgo 👋
 Tenho 22 anos, cursando Ciências da Computação (7º Semestre).
+Meu primeiro estágio foi em DevOps e o mais recente em desenvolvimento back-end.
+Atualmente estou atrás da minha primeira oportunidade como efetivo.
 
 <div>
  <a href="https://www.instagram.com/idaaalgo/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
